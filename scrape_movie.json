@@ -1,0 +1,20 @@
+{
+    "name": "Pather Panchali",
+    "year": 1955,
+    "rating": "8.5",
+    "position": 1,
+    "url": "https://www.imdb.com/title/tt0048473/",
+    "director": [
+        "Satyajit Ray"
+    ],
+    "country": "India",
+    "poster_url": "https://www.imdb.com//title/tt0048473/mediaviewer/rm2023787521",
+    "language": [
+        "Bengali"
+    ],
+    "movie_bio": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+    "runtime": 125,
+    "movie_genre": [
+        "Drama"
+    ]
+}
